@@ -1,0 +1,2 @@
+hello = "你好"
+i_am_who_and_age_is = "我叫 ##name##'，我今年##years##岁"

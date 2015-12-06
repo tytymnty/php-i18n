@@ -1,0 +1,7 @@
+<phpunit bootstrap="./tests/bootstrap.php">
+    <testsuites>
+      <testsuite name="PHP multi language test case">
+        <directory>tests</directory>
+      </testsuite>
+    </testsuites>
+</phpunit>
