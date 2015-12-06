@@ -1,0 +1,2 @@
+hello = "Hello"
+i_am_who_and_age_is = "I am ##name##, I'm ##years## old"
