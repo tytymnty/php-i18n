@@ -1,10 +1,7 @@
 <?php
 /**
- * Anti-theft Web management phpunit test bootstrap.
- *
- * @author ye.tian@acadine.com
- * @since 2015-11-03 21:54:55
- * @copyright Copyright (C) 2015 Acadine Technologies
+ * @author tytymnty@gmail.com
+ * @since 2015-12-05 17:29:44
  */
 
 define('BASE_PATH', __DIR__);
