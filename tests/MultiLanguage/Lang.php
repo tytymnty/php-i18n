@@ -1,6 +1,6 @@
 <?php
 
-require PROJECT_ROOT.'/src/MultiLanguage/Lang.php';
+require PROJECT_ROOT.'/src/I18N/Lang.php';
 
 class LangTest extends PHPUnit_Framework_TestCase {
 
