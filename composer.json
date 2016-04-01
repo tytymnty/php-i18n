@@ -16,7 +16,7 @@
 
     "autoload": {
         "psr-0": {
-            "MultiLanguage\\": "src/"
+            "I18N\\": "src/"
         }
     }
 }
