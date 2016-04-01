@@ -1,5 +1,5 @@
 {
-    "name": "tytymnty/php-multi-language",
+    "name": "tytymnty/php-i18n",
     "description": "PHP multi language package util",
     "license": "MIT",
     "keywords": ["i18n", "multi language"],
