@@ -16,7 +16,7 @@
 
     "autoload": {
         "psr-4": {
-            "I18N\\": "src/"
+            "I18N\\": "src/I18N/"
         }
     }
 }
