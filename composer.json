@@ -3,7 +3,7 @@
     "description": "PHP multi language package util",
     "license": "MIT",
     "keywords": ["i18n", "multi language"],
-    "version": "0.0.1",
+    "version": "1.1",
     "authors": [
         {
             "name": "Tianye",
