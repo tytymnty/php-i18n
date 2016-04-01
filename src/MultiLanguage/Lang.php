@@ -6,9 +6,9 @@
  * @since 2015-12-05 17:29:44
  */
 
-namespace MultiLanguage;
+namespace I18N;
 
-Class Util 
+Class Lang 
 {
     private static $cookieKey = 'lang';
     private static $currLang = null;
