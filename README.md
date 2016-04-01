@@ -1,3 +1,3 @@
-# php-multi-language
+# php-i18n
 
 init
