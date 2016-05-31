@@ -66,6 +66,7 @@ Class Lang
     {
         if (empty($lang)) {
             self::$currLang = self::$defaultLang;
+            self::requireLangPackage(self::$currLang);
             return;
         }
 
